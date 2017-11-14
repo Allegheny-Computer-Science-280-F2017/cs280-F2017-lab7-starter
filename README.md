@@ -23,7 +23,7 @@ PROBLEMS?
 # cs280-F2017-lab7-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the starter for Laboratory 6 in Computer Science 280. You
+repository contains the starter for Laboratory 7 in Computer Science 280. You
 will use this repository to review the contributions that you and your team
 members made when addressing all of the issues in the issue tracker for the three
 projects that you complete for this assignment.
@@ -40,7 +40,7 @@ that you created on GitHub.
 ## Problems
 
 If you have found a problem with this assignment's provided source code, then
-you can go to the [Computer Science 280 Lab 5
+you can go to the [Computer Science 280 Lab 7
 Starter](https://github.com/Allegheny-Computer-Science-280-F2017/cs280-F2017-lab7-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. To ensure that your issue is properly resolved,
